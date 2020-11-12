@@ -1,0 +1,26 @@
+id;name;surname;gender;user_des;dob;username;password
+1;Emerson;James;Male;This is a male;01-JANUARY-01;emerson1;emerson1234
+2;James;Fallah;male;This is a  male;02-JUNE-02;james1;james1234
+3;Fallah;Emerson;male;This is a male;03-MARCH-03;fallah1;fallah1234
+4;Lubomir;Andrle;male;This is a male;04-MAY-04;lubomir1;lubomir1234
+5;Gloria;Fallah;female;This is a female;05-APRIL-05;gloria1;gloria1234
+6;Lorena;Miletic;female;This is a  female;06-JUNE-06;lorena1;lorena1234
+7;Fanta;Kallay;female;This is a female;07-JULY-07;fanta1;fanta1234
+8;Francess;Fallah;female;this is a female;08-AUGUST-08;francess1;francess1234
+9;Loren;Miletic;male;This is a  male;09-SEPTEMBER-09;lorena12;lorena12345
+10;Alhaji;Kallay;male;This is a male;10-OCTOBER-10;alhaji1;alhaji1234
+11;France;Falla;male;this is a male;11-NOVEMBER-11;france1;france1234
+12;Wusu;Kamara;male;This is a  male;12-DECEMBER-12;wusu1;wusu1234
+13;Sorie;Kallay;female;This is a female;01-DECEMBER-01;sorie1;sorie1234
+14;Nanday;Kamara;male;this is a male;02-NOVEMBER-02;nanday1;nanday1234
+15;Kamara;Wusu;male;This is a  male;03-OCTOBER-03;kamara1;kamara1234
+16;Tea;Kallay;female;This is a female;04-SEPTEMBER-04;tea1;tea1234
+17;Slim;Shaddy;female;this is a female;05-AUGUST-05;slim1;slim1234
+18;Babalo;Junior;male;This is a  male;06-JULY-06;babalo1;babalo1234
+19;Theophilus;Sesay;male;This is a  male;07-JUNE-07;theophilus1;thephilus1234
+20;Akuna;Wallace;male;This is a male;08-MAY-08;akuna1;akuna1234
+21;Johnson;Koroma;male;this is a male;09-APRIL-09;johnson1;johnson1234
+22;Glen;Fallah;male;This is a  male;10-MARCH-10;glen1;glen1234
+23;June;April;female;This is a female;11-MAY-11;june1;jun1234
+24;Peter;Mau mau;male;this is a male;12-JANUARY-12;peter1;peter1234
+25;John;Conteh;female;This is a  female;93-JUNE-19;john1;john1234
